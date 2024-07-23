@@ -15,7 +15,7 @@ In order to get started, you need a collection of technologies installed on your
 
 First, start your backend environment.
 
-To get started, make sure you've run the following commands:
+To get started, make sure you've run the following commands inside the `frontend` folder:
 - `pnpm i` installs the project's Node packages
 - `pnpm dev` starts the dev server; you will be able to see the app's URL
 - go to the local development location (by default, it's http://localhost:5173/)
